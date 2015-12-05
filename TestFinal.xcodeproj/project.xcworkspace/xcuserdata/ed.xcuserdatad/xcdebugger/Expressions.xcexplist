@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "HuueyInterface.setHSB(HuueyLight) -&gt; ():HuueyInterface.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "light.getState()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HuueyInterface.get(HuueyGet) -&gt; [AnyObject]:HuueyInterface.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "HuueyLight(data: light,id:Int(key)!)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.segClick(AnyObject) -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sender.selectedSegmentIndex  ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HuueyInterface.setXY(Float, y : Float, light : HuueyLight) -&gt; ():HuueyInterface.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.viewDidLoad() -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "segment.frame">
+            </PersistentString>
+            <PersistentString
+               value = "UIImage(named:  &quot;huegely.bundle/color_wheel_730.png&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TestFinalTests.testExample() -&gt; ():TestFinalTests.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "huuey.lights[0].getXY()&#10;huuey.lights[0].getXY()&#10;">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
